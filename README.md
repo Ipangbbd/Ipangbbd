@@ -19,17 +19,14 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Mobile
-![Native](https://img.shields.io/badge/NATIVE-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ## 💡 Specializations
 - M.E.A.N Stack (MongoDB, Express.js, Angular, Node.js)
 - Laravel
-- Native Mobile Development
-- Figma UI/UX Design
+- Native Coding
 
 ## 🔗 Connect with me:
 [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kehidupanberkelanjutan/)
 
 ---
 
