@@ -1,6 +1,6 @@
 # Hi there! 👋, I'm Ali!
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ipangbbd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
@@ -12,7 +12,7 @@
 - 📱 Android App Developer
 
 ## 📊 My Coding Activity
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipangbbd&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
