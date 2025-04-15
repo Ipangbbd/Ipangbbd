@@ -11,7 +11,7 @@
 ![Figma](https://img.shields.io/badge/FIGMA-orange?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/REACT.JS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge&logo=express&logoColor=white)
 
 ### Backend
