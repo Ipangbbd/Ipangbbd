@@ -1,7 +1,7 @@
 # Hi there! 👋, I'm Ali!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipangbbd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 📚 About Me
@@ -13,7 +13,7 @@
 
 ## 📊 My Coding Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipangbbd&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ## 🛠️ Tech Stack:
@@ -61,35 +61,27 @@ Database Management████████████████░░░░�
 
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" />
+  <a href="https://github.com/ipangbbd/Cookie-Clicker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Cookie-Clicker&theme=dark" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark" />
+  <a href="https://github.com/yourusername/Fitness-Scheduler-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Fitness-Scheduler-App&theme=dark" />
   </a>
 </div>
 
 ## 📊 Language Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipangbbd&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🔗 Connect with me:
 [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kehidupanberkelanjutan/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourusername)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [My Journey with MERN Stack Development](https://yourblog.com/post1)
-- [Getting Started with Android Studio and Kotlin](https://yourblog.com/post2)
-- [Unity Game Development: First Steps](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-irfansyah)
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ipangbbd&color=blueviolet" alt="Profile Views" />
 </div>
 
 💬 Feel free to reach out if you want to collaborate on projects or just chat about web development, mobile app development, game design, and more!
