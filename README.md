@@ -1,6 +1,6 @@
 # Hi there! 👋, I'm Ali!
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ipangbbd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
