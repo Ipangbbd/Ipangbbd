@@ -11,11 +11,6 @@
 - 🎮 Game Developer with Unity
 - 📱 Android App Developer
 
-## 📊 My Coding Activity
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipangbbd&theme=dark" alt="GitHub Streak Stats" />
-</div>
-
 ## 🛠️ Tech Stack:
 
 ### Design
