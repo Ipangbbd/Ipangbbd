@@ -11,9 +11,6 @@
 - 🎮 Game Developer with Unity
 - 📱 Android App Developer
 
-## 🔥 Repo Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ipangbbd&theme=dark)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack:
 
 ### Design
