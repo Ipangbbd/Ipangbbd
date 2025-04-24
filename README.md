@@ -12,7 +12,7 @@
 - 📱 Android App Developer
 
 ## 🔥 Repo Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ipangbbd)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ipangbbd&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack:
 
