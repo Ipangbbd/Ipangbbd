@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack:
 
 ### Design
-![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=red)
+![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=purple)
 ![Framer](https://img.shields.io/badge/Framer-darkblue?style=for-the-badge&logo=framer&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
 
