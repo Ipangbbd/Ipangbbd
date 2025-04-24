@@ -13,6 +13,8 @@
 
 ## 🛠️ Tech Stack:
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ipangbbd&theme=dark" alt="GitHub Streak" /></a>
+
 ### Design
 ![Figma](https://img.shields.io/badge/FIGMA-orange?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-darkblue?style=for-the-badge&logo=framer&logoColor=white)
