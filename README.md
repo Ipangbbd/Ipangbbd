@@ -21,6 +21,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/THREE.JS-white?style=for-the-badge&logo=three&logoColor=black)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
