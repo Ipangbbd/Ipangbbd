@@ -11,6 +11,9 @@
 - 🎮 Game Developer with Unity
 - 📱 Android App Developer
 
+## 🔥 Repo Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ipangbbd)](https://git.io/streak-stats)
+
 ## 🛠️ Tech Stack:
 
 ### Design
