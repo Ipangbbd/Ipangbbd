@@ -5,8 +5,7 @@
 </div>
 
 ## 📚 About Me
-- 🧑‍🎓 I'm a 17-year-old Senior Highschool
--  Student
+- 🧑‍🎓 I'm a 17-year-old Senior Highschool Student
 - 💻 Novice UI/UX Designer & Full-Stack Web Developer
 - 🌱 Always learning and improving my skills
 - 🎮 Game Developer with Unity
