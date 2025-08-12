@@ -36,6 +36,7 @@
 ### Mobile & Game Development
 ![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-FFFFFF?style=for-the-badge&logo=flutter&logoColor=blue)
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
