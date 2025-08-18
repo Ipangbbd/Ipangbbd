@@ -64,8 +64,8 @@ Database Management ████████████████░░░░
 
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/ipangbbd/Cookie-Clicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Cookie-Clicker&theme=dark" />
+  <a href="https://github.com/ipangbbd/Cookie-Clicker](https://github.com/Ipangbbd/Flutter-Finance-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Flutter-Finance-Manager&theme=dark" />
   </a>
   <a href="https://github.com/yourusername/Fitness-Scheduler-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Fitness-Scheduler-App&theme=dark" />
