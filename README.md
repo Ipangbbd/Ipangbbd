@@ -67,8 +67,8 @@ Database Management ████████████████░░░░
   <a href="https://github.com/Ipangbbd/Flutter-Finance-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Flutter-Finance-Manager&theme=dark" />
   </a>
-  <a href="https://github.com/Ipangbbd/Color-Palette-Generator-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Color-Palette-Generator-V2&theme=dark" />
+  <a href="https://github.com/Ipangbbd/palette-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark" />
   </a>
 </div>
 
