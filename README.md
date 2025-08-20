@@ -65,7 +65,7 @@ Database Management ████████████████░░░░
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Ipangbbd/Flutter-Finance-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=Flutter-Finance-Manager&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=FinFlow-Personal-Finance-Manager&theme=dark" />
   </a>
   <a href="https://github.com/Ipangbbd/palette-pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark" />
