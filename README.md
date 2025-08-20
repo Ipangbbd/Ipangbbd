@@ -65,7 +65,7 @@ Database Management ████████████████░░░░
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Ipangbbd/Flutter-Finance-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=FinFlow-Personal-Finance-Manager&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=FinFlow-Personal-Finance-Manager&theme=dark&cache_bust=true" />
   </a>
   <a href="https://github.com/Ipangbbd/palette-pro.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark" />
@@ -78,8 +78,8 @@ Database Management ████████████████░░░░
 </div>
 
 ## 🔗 Connect with me:
-[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kehidupanberkelanjutan/)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipangbbd)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codevwithali/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-irfansyah)
 
 ---
