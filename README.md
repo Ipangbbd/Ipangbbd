@@ -67,7 +67,7 @@ Database Management ████████████████░░░░
   <a href="https://github.com/Ipangbbd/Flutter-Finance-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=FinFlow-Personal-Finance-Manager&theme=dark" />
   </a>
-  <a href="https://github.com/Ipangbbd/palette-pro">
+  <a href="https://github.com/Ipangbbd/palette-pro.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark" />
   </a>
 </div>
