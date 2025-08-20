@@ -68,7 +68,7 @@ Database Management ████████████████░░░░
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=FinFlow-Personal-Finance-Manager&theme=dark&cache_bust=true" />
   </a>
   <a href="https://github.com/Ipangbbd/palette-pro.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark&random_parameter=12345" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark&random_parameter=123456" />
   </a>
 </div>
 
