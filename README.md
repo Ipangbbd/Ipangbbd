@@ -76,7 +76,7 @@ Database Management ████████████████░░░░
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=palette-pro&theme=dark&random_parameter=123456" />
   </a>
   <a href="https://github.com/Ipangbbd/MERN-HOTEL.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=MERN-HOTEL&theme=dark&random_parameter=123456" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=MERN-HOTEL&theme=dark&random_parameter=12345" />
   </a>
   <a href="https://github.com/Ipangbbd/LARAVEL-CRUD-WITH-TEMPLATE.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=LARAVEL-CRUD-WITH-TEMPLATE&theme=dark&random_parameter=123456" />
