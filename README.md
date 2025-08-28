@@ -128,8 +128,8 @@ const ali = {
 
 ---
 
-### 📋 Laravel CRUD Template
-[![Laravel CRUD](https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=LARAVEL-CRUD-WITH-TEMPLATE&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ipangbbd/LARAVEL-CRUD-WITH-TEMPLATE.git)
+### 📋 Laravel CRUD Template With An AUTH System
+[![Laravel CRUD](https://github-readme-stats.vercel.app/api/pin/?username=ipangbbd&repo=LARAVEL-CRUD-TEMPLATE-WITH-AUTH&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ipangbbd/LARAVEL-CRUD-TEMPLATE-WITH-AUTH.git)
 
 *Professional Laravel CRUD application with modern UI template and best practices*
 
