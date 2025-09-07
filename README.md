@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Crafting+Digital+Experiences;💡+Solving+Problems+with+Code;🎨+Designing+Beautiful+Interfaces;⚡+Building+Scalable+Applications" alt="Typing Animation" />
 </div>
 
+<br>
+
 ---
 
 ## 🎯 **About Me**
@@ -229,8 +231,8 @@ const ali: Developer = {
 <td width="75%">
 
 ### 🎯 **Key Achievements**
-- 🏅 **50+ Repositories** - Diverse portfolio of projects
-- ⭐ **200+ Stars** - Community recognition for quality code  
+- 🏅 **40+ Repositories** - Diverse portfolio of projects
+- ⭐ **100+ Stars** - Community recognition for quality code  
 - 🤝 **Active Contributor** - Regular open source contributions
 - 🚀 **Fast Learner** - Mastered multiple frameworks quickly
 - 💼 **Client Projects** - Successfully delivered real-world solutions
@@ -350,8 +352,8 @@ I'm always excited to work on innovative projects and connect with fellow develo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipangbbd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-irfansyah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codevwithali/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://codevwithali.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codevwithali@gmail.com)
 
 </td>
 </tr>
