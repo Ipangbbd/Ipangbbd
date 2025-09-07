@@ -73,19 +73,19 @@ const ali: Developer = {
 <br><br>
 **Backend & APIs**
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,go,python,django,graphql,prisma,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,go,python,graphql,supabase&theme=dark" />
 
 <!-- Databases -->
 <br><br>
 **Databases & Cloud**
 <br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,vercel,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,aws,vercel,docker,nginx&theme=dark" />
 
 <!-- Mobile & Desktop -->
 <br><br>
 **Mobile & Desktop**
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,androidstudio,unity,cs,electron,tauri&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,androidstudio,unity,cs,electron,c#&theme=dark" />
 
 <!-- Tools -->
 <br><br>
