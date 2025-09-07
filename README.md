@@ -217,37 +217,6 @@ const ali: Developer = {
 
 ---
 
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ipangbbd&theme=darkhub&no-bg=true&no-frame=true&margin-w=4&column=2&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophy" />
-</td>
-<td width="75%">
-
-### 🎯 **Key Achievements**
-- 🏅 **40+ Repositories** - Diverse portfolio of projects
-- ⭐ **100+ Stars** - Community recognition for quality code  
-- 🤝 **Active Contributor** - Regular open source contributions
-- 🚀 **Fast Learner** - Mastered multiple frameworks quickly
-- 💼 **Client Projects** - Successfully delivered real-world solutions
-
-### 📜 **Certifications**
-- 🎓 **Full-Stack Web Development** - Self-taught mastery
-- 🎨 **UI/UX Design Principles** - Applied in multiple projects
-- 📱 **Mobile App Development** - Flutter & Native Android
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 **Current Focus & Goals**
 
 <div align="center">
