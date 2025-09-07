@@ -145,7 +145,7 @@ const ali: Developer = {
 **Tech Stack:** Flutter • Dart • SQLite • Provider
 <br>**Features:** Budget tracking, expense analytics, goal setting
 <br>
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> <img src="https://img.shields.io/badge/Users-1K+-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> 
 
 </td>
 <td width="50%" align="center">
@@ -157,7 +157,7 @@ const ali: Developer = {
 **Tech Stack:** React • TypeScript • Tailwind CSS • Vite
 <br>**Features:** Color generation, palette export, accessibility checks
 <br>
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> <img src="https://img.shields.io/badge/Downloads-500+-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/> 
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ const ali: Developer = {
 **Tech Stack:** MongoDB • Express • React • Node.js
 <br>**Features:** Booking system, payment integration, admin panel
 <br>
-<img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/API-RESTful-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square"/> 
 
 </td>
 <td width="50%" align="center">
