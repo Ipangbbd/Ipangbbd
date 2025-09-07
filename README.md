@@ -7,8 +7,8 @@
 
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Crafting+Digital+Experiences;💡+Solving+Problems+with+Code;🎨+Designing+Beautiful+Interfaces;⚡+Building+Scalable+Applications" alt="Typing Animation" />
-</div><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=🚀+Crafting+Digital+Experiences;💡+Solving+Problems+with+Code;🎨+Designing+Beautiful+Interfaces;⚡+Building+Scalable+Applications;🌟+Always+Learning+%26+Growing" alt="Typing Animation" />
+</div>
 
 ---
 
