@@ -67,13 +67,13 @@ const ali: Developer = {
 <!-- Frontend -->
 **Frontend Development**
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,sass,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,sass,bootstrap&theme=dark" />
 
 <!-- Backend -->
 <br><br>
 **Backend & APIs**
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,go,python,graphql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,graphql&theme=dark" />
 
 <!-- Databases -->
 <br><br>
