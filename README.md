@@ -85,7 +85,7 @@ const ali: Developer = {
 <br><br>
 **Mobile & Desktop**
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,unity,cs,c#&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,cs,c#&theme=dark" />
 
 <!-- Tools -->
 <br><br>
