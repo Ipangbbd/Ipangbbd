@@ -58,7 +58,7 @@ const ali: Developer = {
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🛠️ **Main Stack**
 
 <div align="center">
 
@@ -67,7 +67,7 @@ const ali: Developer = {
 <!-- Frontend -->
 **Frontend Development**
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,sass,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,sass,bootstrap&theme=dark" />
 
 <!-- Backend -->
 <br><br>
@@ -85,7 +85,7 @@ const ali: Developer = {
 <br><br>
 **Mobile & Desktop**
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,androidstudio,unity,cs,electron,c#&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,unity,cs,c#&theme=dark" />
 
 <!-- Tools -->
 <br><br>
