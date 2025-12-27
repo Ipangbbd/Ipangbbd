@@ -37,7 +37,9 @@ Flutter, Firebase, AWS (core services & deployment)
 ## Selected Projects
 
 ### Offline Music Player (Web)
-Offline-first web music player with zero ads, accounts, or network dependency.
+A fully offline-first web music player designed to work without ads, accounts, or network dependency. 
+
+**Why this exists** I wanted a YouTube-like listening experience without ads, tracking, or forced connectivity. This project explores how far modern web APIs can go for offline media consumption.
 
 **Architecture & Decisions**
 - IndexedDB for local audio storage  
