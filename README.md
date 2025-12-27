@@ -139,7 +139,7 @@ Repo: https://github.com/Ipangbbd/MERN-HOTEL
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ipangbbd&show_icons=true&hide_border=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Ipangbbd&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=ipangbbd&show_icons=true&v=2))
 
 ---
 
