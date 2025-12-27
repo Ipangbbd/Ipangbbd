@@ -58,27 +58,31 @@ Repo: https://github.com/Ipangbbd/Offline-Music-Player-Ali
 ---
 
 ### SBACS — Shift-Based Anti-Corruption System
-System for managing shift-based operations with auditability and accountability.
+Accountability-focused system designed to reduce internal fraud in shift-based operations.
 
 **Problem**
-Manual or weakly logged shift systems are easy to manipulate and hard to audit.
+In many small and mid-sized businesses, shift logs are manually adjusted, weakly audited, or retroactively edited—creating opportunities for cash leakage and responsibility evasion.
+
+**System Intent**
+SBACS enforces explicit accountability by making shift state changes traceable, constrained, and reviewable.
 
 **Architecture**
-- Frontend: React (Native CSS)  
-- Backend: Node.js, Express  
-- Database: PostgreSQL  
+- Frontend: React (Native CSS)
+- Backend: Node.js, Express
+- Database: PostgreSQL
 
-**Key Focus**
-- Role-based access separation  
-- Audit-friendly data modeling  
-- Explicit shift state transitions  
+**Design Decisions**
+- Explicit shift state transitions to prevent silent edits
+- Role-based access separation (operator vs supervisor)
+- Audit-oriented data modeling over convenience
+- Server-side validation for all critical state changes
 
 **Tradeoffs**
-- Monolithic backend for operational simplicity  
-- No real-time layer  
+- Monolithic backend to keep authority centralized
+- No real-time updates to avoid unnecessary complexity
 
 **Tech:** React, Node.js, Express, PostgreSQL  
-Repo: https://github.com/Ipangbbd/SBACS-Shift-Based-Anti-Corruption-System-  
+Repo: https://github.com/Ipangbbd/SBACS-Shift-Based-Anti-Corruption-System-
 
 ---
 
